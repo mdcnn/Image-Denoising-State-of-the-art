@@ -9,7 +9,7 @@
 #### Filter
  * BM3D [[Web]](http://www.cs.tut.fi/~foi/GCF-BM3D/) [[Code]](http://www.cs.tut.fi/~foi/GCF-BM3D/BM3D.zip) [[PDF]](http://www.cs.tut.fi/~foi/GCF-BM3D/SPIE08_deblurring.pdf)
    * Image restoration by sparse 3D transform-domain collaborative filtering (SPIE Electronic Imaging 2008), Dabov et al.
- * Local Activity-Driven Image Filtering [[Web]](https://github.com/mdcnn/Local-Activity-Driven-Filtering)[[PDF]](https://arxiv.org/pdf/1707.02637.pdf)
+ * Local Activity-Driven Image Filtering[[Free Offical PDF]](https://authors.elsevier.com/c/1Y6T-bZX4vgxi) [[Web]](https://github.com/mdcnn/Local-Activity-Driven-Filtering)[[PDF]](https://arxiv.org/pdf/1707.02637.pdf)
    * Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing (Accepted by Signal Processing), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Bing Zeng and Yao Zhao.
 
 #### Sparse Coding
